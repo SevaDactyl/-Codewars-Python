@@ -29,7 +29,7 @@ This file is part of the SevaDactyl/Codewars-Python
 (https://github.com/SevaDactyl/Codewars-Python)
 
 License is GNU General Public License v3.0
-(https://github.com/SevaDactyl/Codewars-Python/blob/main/LICENSE.md)
+(https://github.com/SevaDactyl/Codewars-Python/blob/main/LICENSE)
 
 You should have received a copy of the GNU General Public License v3.0
 along with this code. If not, see http://www.gnu.org/licenses/
